@@ -1,19 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://localhost:4000</id>
+    <id>https://yuwenspace.github.io</id>
     <title>语文园地</title>
-    <updated>2022-10-22T15:19:37.840Z</updated>
+    <updated>2022-10-22T15:36:16.457Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="http://localhost:4000"/>
-    <link rel="self" href="http://localhost:4000/atom.xml"/>
+    <link rel="alternate" href="https://yuwenspace.github.io"/>
+    <link rel="self" href="https://yuwenspace.github.io/atom.xml"/>
     <subtitle>语文园地</subtitle>
-    <logo>http://localhost:4000/images/avatar.png</logo>
-    <icon>http://localhost:4000/favicon.ico</icon>
+    <logo>https://yuwenspace.github.io/images/avatar.png</logo>
+    <icon>https://yuwenspace.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, 语文园地</rights>
     <entry>
+        <title type="html"><![CDATA[新增无症状感染者125例]]></title>
+        <id>https://yuwenspace.github.io/xin-zeng-wu-zheng-zhuang-gan-ran-zhe-125-li/</id>
+        <link href="https://yuwenspace.github.io/xin-zeng-wu-zheng-zhuang-gan-ran-zhe-125-li/">
+        </link>
+        <updated>2022-10-22T15:26:55.000Z</updated>
+        <content type="html"><![CDATA[<p><strong>新增无症状感染者125例</strong>，其中，乌鲁木齐市天山区17例、沙依巴克区14例、高新区11例、水磨沟区13例、经开区7例、米东区11例，伊犁州伊宁市26例、伊宁县3例，塔城地区乌苏市5例，吐鲁番市高昌区8例，巴州库尔勒市10例。</p>
+<blockquote>
+<p>10月21日0至24时，新疆维吾尔自治区新增确诊病例治愈出院27例；新增无症状感染者解除隔离医学观察332例。</p>
+</blockquote>
+<blockquote>
+<p>截至10月21日24时，新疆维吾尔自治区现有确诊病例287例；无症状感染者3111例。<br>
+疫情感觉结束<br>
+😨😨</p>
+</blockquote>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[《岳阳楼记》中环境描写的作用]]></title>
-        <id>http://localhost:4000/lesslessyue-yang-lou-ji-greatergreater-zhong-huan-jing-miao-xie-de-zuo-yong/</id>
-        <link href="http://localhost:4000/lesslessyue-yang-lou-ji-greatergreater-zhong-huan-jing-miao-xie-de-zuo-yong/">
+        <id>https://yuwenspace.github.io/lesslessyue-yang-lou-ji-greatergreater-zhong-huan-jing-miao-xie-de-zuo-yong/</id>
+        <link href="https://yuwenspace.github.io/lesslessyue-yang-lou-ji-greatergreater-zhong-huan-jing-miao-xie-de-zuo-yong/">
         </link>
         <updated>2022-10-22T09:09:05.000Z</updated>
         <content type="html"><![CDATA[<p>①景物的对比。第三段写阴雨连绵，凄凉恐怖之景与第四段写春风和煦、日光明媚之景形成鲜明的对比。</p>
@@ -23,8 +40,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>http://localhost:4000/hello-gridea/</id>
-        <link href="http://localhost:4000/hello-gridea/">
+        <id>https://yuwenspace.github.io/hello-gridea/</id>
+        <link href="https://yuwenspace.github.io/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
