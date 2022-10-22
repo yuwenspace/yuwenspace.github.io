@@ -1,63 +1,113 @@
+
+<!DOCTYPE html>
 <html>
   <head>
-    <meta charset="utf-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1" />
+    
+<meta charset="utf-8" >
+
 <title>《岳阳楼记》中环境描写的作用 | 语文园地</title>
-<link rel="shortcut icon" href="https://yuwenspace.github.io/favicon.ico?v=1666451447379">
-<link href="https://cdn.jsdelivr.net/npm/remixicon@2.3.0/fonts/remixicon.css" rel="stylesheet">
-<link rel="stylesheet" href="https://yuwenspace.github.io/styles/main.css">
-<link rel="alternate" type="application/atom+xml" title="《岳阳楼记》中环境描写的作用 | 语文园地 - Atom Feed" href="https://yuwenspace.github.io/atom.xml">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Droid+Serif:400,700">
+<meta name="description" content="语文园地">
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css">
+
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+<link rel="shortcut icon" href="http://localhost:4000/favicon.ico?v=1666451973726">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
+<link rel="stylesheet" href="http://localhost:4000/styles/main.css">
 
 
 
-    <meta name="description" content="①景物的对比。第三段写阴雨连绵，凄凉恐怖之景与第四段写春风和煦、日光明媚之景形成鲜明的对比。
-②“览物之情”的对比。“迁客骚人”在阴晴两种不同的天气产生了悲喜两种不同的“览物之情”的对比。
-③“迁客骚人”和“古仁人”的对比。“迁客骚人”面对..." />
-    <meta name="keywords" content="" />
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
-    <script src="//cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.5.1/build/highlight.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+<script src="//cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.5.1/build/highlight.min.js"></script>
+
+
+
   </head>
   <body>
-    <div class="main">
-      <div class="main-content">
-        <div class="site-header">
-  <a href="https://yuwenspace.github.io">
-  <img class="avatar" src="https://yuwenspace.github.io/images/avatar.png?v=1666451447379" alt="">
-  </a>
-  <h1 class="site-title">
-    语文园地
-  </h1>
-  <p class="site-description">
-    语文园地
-  </p>
-  <div class="menu-container">
-    
-      
-        <a href="/" class="menu">
-          首页
-        </a>
-      
-    
-      
-        <a href="/archives" class="menu">
-          归档
-        </a>
-      
-    
-      
-        <a href="/tags" class="menu">
-          标签
-        </a>
-      
-    
-      
-        <a href="https://yuwenspace.github.io/about" class="menu">
-          关于
-        </a>
-      
-    
+    <div id="app" class="main">
+      <div class="site-header-container">
+  <div class="site-header">
+    <div class="left">
+      <a href="http://localhost:4000">
+        <img class="avatar" src="http://localhost:4000/images/avatar.png?v=1666451973726" alt="" width="32px" height="32px">
+      </a>
+      <a href="http://localhost:4000">
+        <h1 class="site-title">语文园地</h1>
+      </a>
+    </div>
+    <div class="right">
+      <transition name="fade">
+        <i class="icon" :class="{ 'icon-close-outline': menuVisible, 'icon-menu-outline': !menuVisible }" @click="menuVisible = !menuVisible"></i>
+      </transition>
+    </div>
   </div>
+</div>
+
+<transition name="fade">
+  <div class="menu-container" style="display: none;" v-show="menuVisible">
+    <div class="menu-list">
+      
+        
+          <a href="/" class="menu purple-link">
+            首页
+          </a>
+        
+      
+        
+          <a href="/archives" class="menu purple-link">
+            归档
+          </a>
+        
+      
+        
+          <a href="/tags" class="menu purple-link">
+            标签
+          </a>
+        
+      
+        
+          <a href="http://localhost:4000/about" class="menu purple-link">
+            关于
+          </a>
+        
+      
+    </div>
+  </div>
+</transition>
+
+
+      <div class="content-container">
+        <div class="post-detail">
+          
+          <h2 class="post-title">《岳阳楼记》中环境描写的作用</h2>
+          <div class="post-info post-detail-info">
+            <span><i class="icon-calendar-outline"></i> 2022-10-22</span>
+            
+          </div>
+          <div class="post-content" v-pre>
+            <p>①景物的对比。第三段写阴雨连绵，凄凉恐怖之景与第四段写春风和煦、日光明媚之景形成鲜明的对比。</p>
+<p>②“览物之情”的对比。“迁客骚人”在阴晴两种不同的天气产生了悲喜两种不同的“览物之情”的对比。</p>
+<p>③“迁客骚人”和“古仁人”的对比。“迁客骚人”面对阴晴两种不同风景和自己的得失时产生了悲喜两种感情和“古仁人”的“不以物喜，不以己悲”的旷达胸襟产生了对比。</p>
+
+          </div>
+        </div>
+
+        
+          <div class="next-post">
+            <a class="purple-link" href="http://localhost:4000/hello-gridea/">
+              <h3 class="post-title">
+                下一篇：Hello Gridea
+              </h3>
+            </a>
+          </div>
+          
+      </div>
+
+      
+
+      <div class="site-footer">
+  <div class="slogan">语文园地</div>
   <div class="social-container">
     
       
@@ -71,125 +121,26 @@
       
     
   </div>
+  Powered by <a href="https://yuwen.space" target="_blank"> 语文园地</a> | <a class="rss" href="http://localhost:4000/atom.xml" target="_blank">RSS</a>
 </div>
 
-        <div class="post-detail">
-          <article class="post">
-            <h2 class="post-title">
-              《岳阳楼记》中环境描写的作用
-            </h2>
-            <div class="post-info">
-              <span>
-                2022-10-22
-              </span>
-              <span>
-                1 min read
-              </span>
-              
-            </div>
-            
-            <div class="post-content-wrapper">
-              <div class="post-content" v-pre>
-                <p>①景物的对比。第三段写阴雨连绵，凄凉恐怖之景与第四段写春风和煦、日光明媚之景形成鲜明的对比。</p>
-<p>②“览物之情”的对比。“迁客骚人”在阴晴两种不同的天气产生了悲喜两种不同的“览物之情”的对比。</p>
-<p>③“迁客骚人”和“古仁人”的对比。“迁客骚人”面对阴晴两种不同风景和自己的得失时产生了悲喜两种感情和“古仁人”的“不以物喜，不以己悲”的旷达胸襟产生了对比。</p>
 
-              </div>
-              <div class="toc-container">
-                
-              </div>
-            </div>
-          </article>
-        </div>
+    </div>
+    <script type="application/javascript">
 
-        
-          <div class="next-post">
-            <div class="next">下一篇</div>
-            <a href="https://yuwenspace.github.io/hello-gridea/">
-              <h3 class="post-title">
-                Hello Gridea
-              </h3>
-            </a>
-          </div>
-        
+hljs.initHighlightingOnLoad()
 
-        
-          
-            <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
-<script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
-
-<div id="gitalk-container"></div>
-
-<script>
-
-  var gitalk = new Gitalk({
-    clientID: 'a739872d845f37b8ab7a',
-    clientSecret: '691cc2f6f3b893236136ac0a9c6ebc23450644d0',
-    repo: 'yuwenspace.github.io',
-    owner: 'yuwenspace',
-    admin: ['yuwenspace'],
-    id: (location.pathname).substring(0, 49),      // Ensure uniqueness and length less than 50
-    distractionFreeMode: false  // Facebook-like distraction free mode
-  })
-
-  gitalk.render('gitalk-container')
+var app = new Vue({
+  el: '#app',
+  data: {
+    menuVisible: false,
+  },
+})
 
 </script>
 
-          
 
-          
-        
 
-        <div class="site-footer">
-  Powered by <a href="https://yuwen.space" target="_blank"> 语文园地</a>
-  <a class="rss" href="https://yuwenspace.github.io/atom.xml" target="_blank">
-    <i class="ri-rss-line"></i> RSS
-  </a>
-</div>
 
-      </div>
-    </div>
-
-    <script>
-      hljs.initHighlightingOnLoad()
-
-      let mainNavLinks = document.querySelectorAll(".markdownIt-TOC a");
-
-      // This should probably be throttled.
-      // Especially because it triggers during smooth scrolling.
-      // https://lodash.com/docs/4.17.10#throttle
-      // You could do like...
-      // window.addEventListener("scroll", () => {
-      //    _.throttle(doThatStuff, 100);
-      // });
-      // Only not doing it here to keep this Pen dependency-free.
-
-      window.addEventListener("scroll", event => {
-        let fromTop = window.scrollY;
-
-        mainNavLinks.forEach((link, index) => {
-          let section = document.getElementById(decodeURI(link.hash).substring(1));
-          let nextSection = null
-          if (mainNavLinks[index + 1]) {
-            nextSection = document.getElementById(decodeURI(mainNavLinks[index + 1].hash).substring(1));
-          }
-          if (section.offsetTop <= fromTop) {
-            if (nextSection) {
-              if (nextSection.offsetTop > fromTop) {
-                link.classList.add("current");
-              } else {
-                link.classList.remove("current");    
-              }
-            } else {
-              link.classList.add("current");
-            }
-          } else {
-            link.classList.remove("current");
-          }
-        });
-      });
-
-    </script>
   </body>
 </html>
