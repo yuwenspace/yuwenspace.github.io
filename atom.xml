@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yuwenspace.github.io</id>
     <title>语文园地</title>
-    <updated>2022-11-03T02:59:15.462Z</updated>
+    <updated>2022-11-03T03:11:22.195Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yuwenspace.github.io"/>
     <link rel="self" href="https://yuwenspace.github.io/atom.xml"/>
@@ -10,6 +10,22 @@
     <logo>https://yuwenspace.github.io/images/avatar.png</logo>
     <icon>https://yuwenspace.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, 语文园地</rights>
+    <entry>
+        <title type="html"><![CDATA[小说中自然环境描写的主要作用]]></title>
+        <id>https://yuwenspace.github.io/xiao-shuo-zhong-zi-ran-huan-jing-miao-xie-de-zhu-yao-zuo-yong/</id>
+        <link href="https://yuwenspace.github.io/xiao-shuo-zhong-zi-ran-huan-jing-miao-xie-de-zhu-yao-zuo-yong/">
+        </link>
+        <updated>2022-11-03T03:06:40.000Z</updated>
+        <content type="html"><![CDATA[<p><strong>小说中自然环境描写的主要作用</strong><br>
+①交代故事发生的时间、地点等;<br>
+②烘托人物心情/情感;<br>
+③渲染气氛,奠定……的感情基调;<br>
+④推动故事情节发展;<br>
+⑤使读者有身临其境之感,增强文章感染力。<br>
+<strong>答题模板:</strong><br>
+通过对……的环境进行描写,交代故事发生的时间/地点/人物活动的空间,渲染……气氛/烘托人物……的情感,推动故事情节的发展。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[《我的叔叔于勒》授课思路]]></title>
         <id>https://yuwenspace.github.io/lesslesswo-de-shu-shu-yu-le-greatergreater-shou-ke-si-lu/</id>
