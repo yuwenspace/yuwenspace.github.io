@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yuwenspace.github.io</id>
     <title>语文园地</title>
-    <updated>2022-11-05T13:27:23.928Z</updated>
+    <updated>2022-11-09T10:13:01.491Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yuwenspace.github.io"/>
     <link rel="self" href="https://yuwenspace.github.io/atom.xml"/>
@@ -10,6 +10,28 @@
     <logo>https://yuwenspace.github.io/images/avatar.png</logo>
     <icon>https://yuwenspace.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, 语文园地</rights>
+    <entry>
+        <title type="html"><![CDATA[《智取生辰纲》讲课思路]]></title>
+        <id>https://yuwenspace.github.io/lesslesszhi-qu-sheng-chen-gang-greatergreater-jiang-ke-si-lu/</id>
+        <link href="https://yuwenspace.github.io/lesslesszhi-qu-sheng-chen-gang-greatergreater-jiang-ke-si-lu/">
+        </link>
+        <updated>2022-11-09T10:03:11.000Z</updated>
+        <content type="html"><![CDATA[<p>《智取生辰纲》讲课思路</p>
+<ol>
+<li>阅读课文，找一找本文主要涉及的人物。<br>
+杨志、老督管、虞侯、军健<br>
+晁盖、吴用、白胜、公孙胜、刘唐、阮氏三兄弟</li>
+<li>这两派人围绕“生辰纲”的争夺，展开文章的叙述，请以“生辰纲”为关键词概括故事情节。<br>
+杨志押送生辰纲<br>
+吴用智取生辰纲<br>
+3.哪一个是明线？哪一个是暗线？这样安排有什么作用？<br>
+第一，制造悬念，引人入胜。对晁盖、吴用等人的行动采取暗线写法，让读者猜不透，造成悬念，直到最后由暗线转到明线，读者才恍然大悟。这就使故事更加曲折，增强了艺术效果。<br>
+第二，相互映衬，凸显主题。为了突出“智取”，明线对杨志的精细和周密防范刻画得越细致，就越能衬托出暗线一方人物的智慧。<br>
+4.明、暗双线是在什么时间、什么地点交接在一起的？<br>
+六月初四正午；黄泥冈松树林。</li>
+</ol>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023年中考语文文言文古诗词默写]]></title>
         <id>https://yuwenspace.github.io/2023-nian-zhong-kao-yu-wen-wen-yan-wen-gu-shi-ci-mo-xie/</id>
