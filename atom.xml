@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yuwenspace.github.io</id>
     <title>语文园地</title>
-    <updated>2022-11-09T10:13:01.491Z</updated>
+    <updated>2022-11-10T03:07:46.731Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yuwenspace.github.io"/>
     <link rel="self" href="https://yuwenspace.github.io/atom.xml"/>
@@ -10,6 +10,27 @@
     <logo>https://yuwenspace.github.io/images/avatar.png</logo>
     <icon>https://yuwenspace.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, 语文园地</rights>
+    <entry>
+        <title type="html"><![CDATA[《水浒》中“赤日炎炎似火烧，野田禾稻半枯焦。"]]></title>
+        <id>https://yuwenspace.github.io/lesslessshui-hu-greatergreater-zhong-chi-ri-yan-yan-si-huo-shao-ye-tian-he-dao-ban-ku-jiao/</id>
+        <link href="https://yuwenspace.github.io/lesslessshui-hu-greatergreater-zhong-chi-ri-yan-yan-si-huo-shao-ye-tian-he-dao-ban-ku-jiao/">
+        </link>
+        <updated>2022-11-10T03:04:17.000Z</updated>
+        <content type="html"><![CDATA[<p>作品原文<br>
+赤日炎炎似火烧，野田禾稻半枯焦。<br>
+农夫心内如汤煮，公子王孙把扇摇。</p>
+<p>😀译注对照<br>
+赤日炎炎似火烧，野田禾稻半枯焦(jiāo)。<br>
+烈日当空好似烈火在炙烤，烤焦了田野中的稻禾。<br>
+赤日：红日；烈日。枯焦：干枯。多用以形容旱天中的植物。<br>
+😄<strong>译文：</strong><br>
+农夫心内如汤煮，公子王孙把扇摇。<br>
+农夫心中急得犹如汤煮，公子王孙摇着扇子还喊热。</p>
+<p>😄<strong>文学赏析</strong><br>
+　　《赤日炎炎似火烧》是《水浒传》第十六回《杨志押送金银担，吴用智取生辰纲》中，杨志押送生辰纲行至黄泥冈时，白日鼠白胜扮作挑酒桶的汉子所吟唱的诗作。<br>
+　　该诗的一、二句“赤日炎炎似火烧，野田禾稻半枯焦”，是从天空写到地上。天上烈日当头，骄阳如火；地上稻禾枯焦，土地干裂。大旱之年，酷热难耐，庄稼被烤晒得枯焦了，押送生辰纲的人们，又将热得如何，就可想而知了。三、四句“农夫心内如汤煮，公子王孙把扇摇”，从农夫百姓写到公子王孙。旱情如虎，眼望着田里的稻禾枯死，一年收成无望，心如汤煮油煎一般，这是农夫心理的真实写照。那些公子王孙们，既不会在田间劳作，也不会推车挑担在路上行走，居然也热得受不了，不住地摇起扇子。这首诗从不同的侧面渲染天气的炎热，为押送生辰纲的杨志等人口渴思饮作铺垫，终于落入吴用所设计的圈套。三、四句描写了农夫与公子王孙这两个对立阶级的完全不同的心理和形态，预示着北宋王朝阶级矛盾正在日益激化。官逼民反，英雄好汉们终于聚义梁山，“替天行道”。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[《智取生辰纲》讲课思路]]></title>
         <id>https://yuwenspace.github.io/lesslesszhi-qu-sheng-chen-gang-greatergreater-jiang-ke-si-lu/</id>
