@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yuwenspace.github.io</id>
     <title>语文园地</title>
-    <updated>2022-11-18T07:35:20.949Z</updated>
+    <updated>2022-11-24T06:27:45.367Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yuwenspace.github.io"/>
     <link rel="self" href="https://yuwenspace.github.io/atom.xml"/>
@@ -10,6 +10,17 @@
     <logo>https://yuwenspace.github.io/images/avatar.png</logo>
     <icon>https://yuwenspace.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, 语文园地</rights>
+    <entry>
+        <title type="html"><![CDATA[学会写作]]></title>
+        <id>https://yuwenspace.github.io/xue-hui-xie-zuo/</id>
+        <link href="https://yuwenspace.github.io/xue-hui-xie-zuo/">
+        </link>
+        <updated>2022-11-24T06:13:59.000Z</updated>
+        <content type="html"><![CDATA[<p>写作应该成为人的一种能力，这种能力应该每个人都具有。余秋雨说：作者就是创造者，读者就是消费者。这里面谈到了创造者和消费者，其实就可以理解成为作品就是一种商品。关键是这种商品可以无限的被销售，这是什么概念？这种商品可以无限被售卖。所以，一定要重视写作能力。<br>
+一、曲线之美<br>
+曲线是生命的存在的基本形式。如螺旋形的DNA结构。两点之间可能曲线最短。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[《范进中举》讲课思路]]></title>
         <id>https://yuwenspace.github.io/lesslessfan-jin-zhong-ju-greatergreater-jiang-ke-si-lu/</id>
@@ -229,17 +240,6 @@
         <content type="html"><![CDATA[<p><strong>《一遍过》河南人教版4单元ppt</strong><br>
 下载地址：<br>
 <a href="https://www.aliyundrive.com/s/H6KhNBWHecf">https://www.aliyundrive.com/s/H6KhNBWHecf</a></p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《岳阳楼记》中环境描写的作用]]></title>
-        <id>https://yuwenspace.github.io/lesslessyue-yang-lou-ji-greatergreater-zhong-huan-jing-miao-xie-de-zuo-yong/</id>
-        <link href="https://yuwenspace.github.io/lesslessyue-yang-lou-ji-greatergreater-zhong-huan-jing-miao-xie-de-zuo-yong/">
-        </link>
-        <updated>2022-10-22T09:09:05.000Z</updated>
-        <content type="html"><![CDATA[<p>①景物的对比。第三段写阴雨连绵，凄凉恐怖之景与第四段写春风和煦、日光明媚之景形成鲜明的对比。</p>
-<p>②“览物之情”的对比。“迁客骚人”在阴晴两种不同的天气产生了悲喜两种不同的“览物之情”的对比。</p>
-<p>③“迁客骚人”和“古仁人”的对比。“迁客骚人”面对阴晴两种不同风景和自己的得失时产生了悲喜两种感情和“古仁人”的“不以物喜，不以己悲”的旷达胸襟产生了对比。</p>
 ]]></content>
     </entry>
 </feed>
