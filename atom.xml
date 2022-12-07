@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://yuwwen.space</id>
+    <id>https://yuwenspace.github.io</id>
     <title>语文园地</title>
-    <updated>2022-12-07T04:43:27.253Z</updated>
+    <updated>2022-12-07T04:47:57.603Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://yuwwen.space"/>
-    <link rel="self" href="https://yuwwen.space/atom.xml"/>
+    <link rel="alternate" href="https://yuwenspace.github.io"/>
+    <link rel="self" href="https://yuwenspace.github.io/atom.xml"/>
     <subtitle>语文园地</subtitle>
-    <logo>https://yuwwen.space/images/avatar.png</logo>
-    <icon>https://yuwwen.space/favicon.ico</icon>
+    <logo>https://yuwenspace.github.io/images/avatar.png</logo>
+    <icon>https://yuwenspace.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, 语文园地</rights>
     <entry>
         <title type="html"><![CDATA[测试]]></title>
-        <id>https://yuwwen.space/ce-shi/</id>
-        <link href="https://yuwwen.space/ce-shi/">
+        <id>https://yuwenspace.github.io/ce-shi/</id>
+        <link href="https://yuwenspace.github.io/ce-shi/">
         </link>
         <updated>2022-12-07T04:42:07.000Z</updated>
         <content type="html"><![CDATA[<p>测试……</p>
@@ -21,8 +21,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[满江红 秋瑾]]></title>
-        <id>https://yuwwen.space/man-jiang-hong-qiu-jin/</id>
-        <link href="https://yuwwen.space/man-jiang-hong-qiu-jin/">
+        <id>https://yuwenspace.github.io/man-jiang-hong-qiu-jin/</id>
+        <link href="https://yuwenspace.github.io/man-jiang-hong-qiu-jin/">
         </link>
         <updated>2022-12-06T00:40:10.000Z</updated>
         <content type="html"><![CDATA[<p><strong>小住京华，早又是中秋佳节。</strong><br>
@@ -79,8 +79,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[《渔家傲.秋思》讲课思路]]></title>
-        <id>https://yuwwen.space/lesslessyu-jia-ao-qiu-si-greatergreater-jiang-ke-si-lu/</id>
-        <link href="https://yuwwen.space/lesslessyu-jia-ao-qiu-si-greatergreater-jiang-ke-si-lu/">
+        <id>https://yuwenspace.github.io/lesslessyu-jia-ao-qiu-si-greatergreater-jiang-ke-si-lu/</id>
+        <link href="https://yuwenspace.github.io/lesslessyu-jia-ao-qiu-si-greatergreater-jiang-ke-si-lu/">
         </link>
         <updated>2022-11-29T07:40:52.000Z</updated>
         <content type="html"><![CDATA[<p>《渔家傲.秋思》<br>
@@ -119,8 +119,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[学会写作]]></title>
-        <id>https://yuwwen.space/xue-hui-xie-zuo/</id>
-        <link href="https://yuwwen.space/xue-hui-xie-zuo/">
+        <id>https://yuwenspace.github.io/xue-hui-xie-zuo/</id>
+        <link href="https://yuwenspace.github.io/xue-hui-xie-zuo/">
         </link>
         <updated>2022-11-24T06:13:59.000Z</updated>
         <content type="html"><![CDATA[<p>写作应该成为人的一种能力，这种能力应该每个人都具有。余秋雨说：作者就是创造者，读者就是消费者。这里面谈到了创造者和消费者，其实就可以理解成为作品就是一种商品。关键是这种商品可以无限的被销售，这是什么概念？这种商品可以无限被售卖。所以，一定要重视写作能力。<br>
@@ -138,8 +138,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[《范进中举》讲课思路]]></title>
-        <id>https://yuwwen.space/lesslessfan-jin-zhong-ju-greatergreater-jiang-ke-si-lu/</id>
-        <link href="https://yuwwen.space/lesslessfan-jin-zhong-ju-greatergreater-jiang-ke-si-lu/">
+        <id>https://yuwenspace.github.io/lesslessfan-jin-zhong-ju-greatergreater-jiang-ke-si-lu/</id>
+        <link href="https://yuwenspace.github.io/lesslessfan-jin-zhong-ju-greatergreater-jiang-ke-si-lu/">
         </link>
         <updated>2022-11-15T01:23:01.000Z</updated>
         <content type="html"><![CDATA[<p>第一课时<br>
@@ -198,8 +198,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[《水浒》中“赤日炎炎似火烧，野田禾稻半枯焦。"]]></title>
-        <id>https://yuwwen.space/lesslessshui-hu-greatergreater-zhong-chi-ri-yan-yan-si-huo-shao-ye-tian-he-dao-ban-ku-jiao/</id>
-        <link href="https://yuwwen.space/lesslessshui-hu-greatergreater-zhong-chi-ri-yan-yan-si-huo-shao-ye-tian-he-dao-ban-ku-jiao/">
+        <id>https://yuwenspace.github.io/lesslessshui-hu-greatergreater-zhong-chi-ri-yan-yan-si-huo-shao-ye-tian-he-dao-ban-ku-jiao/</id>
+        <link href="https://yuwenspace.github.io/lesslessshui-hu-greatergreater-zhong-chi-ri-yan-yan-si-huo-shao-ye-tian-he-dao-ban-ku-jiao/">
         </link>
         <updated>2022-11-10T03:04:17.000Z</updated>
         <content type="html"><![CDATA[<p>作品原文<br>
@@ -219,8 +219,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[《智取生辰纲》讲课思路]]></title>
-        <id>https://yuwwen.space/lesslesszhi-qu-sheng-chen-gang-greatergreater-jiang-ke-si-lu/</id>
-        <link href="https://yuwwen.space/lesslesszhi-qu-sheng-chen-gang-greatergreater-jiang-ke-si-lu/">
+        <id>https://yuwenspace.github.io/lesslesszhi-qu-sheng-chen-gang-greatergreater-jiang-ke-si-lu/</id>
+        <link href="https://yuwenspace.github.io/lesslesszhi-qu-sheng-chen-gang-greatergreater-jiang-ke-si-lu/">
         </link>
         <updated>2022-11-09T10:03:11.000Z</updated>
         <content type="html"><![CDATA[<p>《智取生辰纲》讲课思路</p>
@@ -241,8 +241,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[2023年中考语文文言文古诗词默写]]></title>
-        <id>https://yuwwen.space/2023-nian-zhong-kao-yu-wen-wen-yan-wen-gu-shi-ci-mo-xie/</id>
-        <link href="https://yuwwen.space/2023-nian-zhong-kao-yu-wen-wen-yan-wen-gu-shi-ci-mo-xie/">
+        <id>https://yuwenspace.github.io/2023-nian-zhong-kao-yu-wen-wen-yan-wen-gu-shi-ci-mo-xie/</id>
+        <link href="https://yuwenspace.github.io/2023-nian-zhong-kao-yu-wen-wen-yan-wen-gu-shi-ci-mo-xie/">
         </link>
         <updated>2022-11-05T13:26:21.000Z</updated>
         <content type="html"><![CDATA[<p>2023年中考语文文言文古诗词默写<br>
@@ -252,8 +252,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[小说中自然环境描写的主要作用]]></title>
-        <id>https://yuwwen.space/xiao-shuo-zhong-zi-ran-huan-jing-miao-xie-de-zhu-yao-zuo-yong/</id>
-        <link href="https://yuwwen.space/xiao-shuo-zhong-zi-ran-huan-jing-miao-xie-de-zhu-yao-zuo-yong/">
+        <id>https://yuwenspace.github.io/xiao-shuo-zhong-zi-ran-huan-jing-miao-xie-de-zhu-yao-zuo-yong/</id>
+        <link href="https://yuwenspace.github.io/xiao-shuo-zhong-zi-ran-huan-jing-miao-xie-de-zhu-yao-zuo-yong/">
         </link>
         <updated>2022-11-03T03:06:40.000Z</updated>
         <content type="html"><![CDATA[<p><strong>小说中自然环境描写的主要作用</strong><br>
@@ -268,8 +268,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[《我的叔叔于勒》授课思路]]></title>
-        <id>https://yuwwen.space/lesslesswo-de-shu-shu-yu-le-greatergreater-shou-ke-si-lu/</id>
-        <link href="https://yuwwen.space/lesslesswo-de-shu-shu-yu-le-greatergreater-shou-ke-si-lu/">
+        <id>https://yuwenspace.github.io/lesslesswo-de-shu-shu-yu-le-greatergreater-shou-ke-si-lu/</id>
+        <link href="https://yuwenspace.github.io/lesslesswo-de-shu-shu-yu-le-greatergreater-shou-ke-si-lu/">
         </link>
         <updated>2022-11-02T06:18:01.000Z</updated>
         <content type="html"><![CDATA[<p>《我的叔叔于勒》授课思路</p>
