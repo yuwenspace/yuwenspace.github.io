@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yuwenspace.github.io</id>
     <title>语文园地</title>
-    <updated>2023-03-25T07:43:46.573Z</updated>
+    <updated>2023-04-29T07:46:11.275Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yuwenspace.github.io"/>
     <link rel="self" href="https://yuwenspace.github.io/atom.xml"/>
@@ -10,6 +10,19 @@
     <logo>https://yuwenspace.github.io/images/avatar.png</logo>
     <icon>https://yuwenspace.github.io/favicon.ico</icon>
     <rights>All rights reserved 2023, 语文园地</rights>
+    <entry>
+        <title type="html"><![CDATA[吹牛逼网站安装文件的设置]]></title>
+        <id>https://yuwenspace.github.io/chui-niu-bi-wang-zhan-an-zhuang-wen-jian-de-she-zhi/</id>
+        <link href="https://yuwenspace.github.io/chui-niu-bi-wang-zhan-an-zhuang-wen-jian-de-she-zhi/">
+        </link>
+        <updated>2023-04-29T07:36:57.000Z</updated>
+        <content type="html"><![CDATA[<p>系统采用的是zblog博客，安装以后会在zb_users文件夹中生成一个文件c_option.php文件<br>
+这里面有数据配置用户名，密码等，只需修改这个文件即可<br>
+此文件已经上传到百度网盘中。<br>
+截图如下<br>
+<img src="https://s2.loli.net/2023/04/29/Oc1PMEYrLTtyRHD.png" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[重要的网址]]></title>
         <id>https://yuwenspace.github.io/zhong-duo/</id>
@@ -331,17 +344,6 @@ https://v.qq.com/x/page/y3241b727s6.html</p>
 4.明、暗双线是在什么时间、什么地点交接在一起的？<br>
 六月初四正午；黄泥冈松树林。</li>
 </ol>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023年中考语文文言文古诗词默写]]></title>
-        <id>https://yuwenspace.github.io/2023-nian-zhong-kao-yu-wen-wen-yan-wen-gu-shi-ci-mo-xie/</id>
-        <link href="https://yuwenspace.github.io/2023-nian-zhong-kao-yu-wen-wen-yan-wen-gu-shi-ci-mo-xie/">
-        </link>
-        <updated>2022-11-05T13:26:21.000Z</updated>
-        <content type="html"><![CDATA[<p>2023年中考语文文言文古诗词默写<br>
-下载地址：<br>
-<a href="https://www.kaodian.org/?id=354">https://www.kaodian.org/?id=354</a></p>
 ]]></content>
     </entry>
 </feed>
